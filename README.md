@@ -35,7 +35,7 @@ Aplicação **prática** da metodologia **Scrum** para gerenciar minha jornada d
 ## 📸 Demonstração
 
 ### Meu Quadro Trello - Sprint Atual
-![Quadro Trello](images/trello-progresso.jpeg)
+![Meu Quadro Trello](images/meu-quadro-trello.png)
 
 ## 💡 Aprendizados
 
