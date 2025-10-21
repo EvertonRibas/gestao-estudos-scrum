@@ -37,7 +37,6 @@ Aplicação **prática** da metodologia **Scrum** para gerenciar minha jornada d
 ### Meu Quadro Trello - Sprint Atual
 ![Meu Quadro Trello](images/meu-quadro-trello.png)
 
-## 💡 Aprendizados
 
 ### 🎯 Scrum na Prática
 - **Daily Standups** mantêm a produtividade e foco
